@@ -13,23 +13,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^3.0.2",
-    "cssnano": "^6.1.0",
-    "del": "^7.1.0",
-    "eslint-webpack-plugin": "^4.0.1",
-    "gulp": "^4.0.2",
-    "gulp-flatten": "^0.4.0",
-    "gulp-imagemin": "^9.0.0",
-    "gulp-mode": "^1.1.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-postcss": "^10.0.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-sass-glob": "^1.1.0",
-    "gulp-sourcemaps": "^3.0.0",
-    "gulp-uglify": "^3.0.2",
-    "sass": "^1.71.1",
-    "vinyl-named": "^1.1.0",
-    "webpack-stream": "^7.0.0"
   },
   "eslintConfig": {
     "extends": "eslint:recommended",
@@ -50,6 +33,23 @@
     }
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "browser-sync": "^3.0.2",
+    "cssnano": "^6.1.0",
+    "del": "^7.1.0",
+    "eslint-webpack-plugin": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-flatten": "^0.4.0",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-mode": "^1.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.71.1",
+    "vinyl-named": "^1.1.0",
+    "webpack-stream": "^7.0.0"
   }
 }
